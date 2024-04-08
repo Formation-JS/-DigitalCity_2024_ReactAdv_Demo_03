@@ -1,0 +1,8 @@
+.link {
+    color: crimson;
+}
+
+.active {
+    color: hotpink;
+    font-weight: bold;
+}
